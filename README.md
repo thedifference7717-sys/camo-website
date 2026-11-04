@@ -9,6 +9,8 @@ visitors' IPs are not leaked to Google Fonts, analytics or CDNs.
   index.html   opening screen: living camo field, scope, hidden CAMO; aim and click to enter
   intro.js     the camo field and scope (canvas, no dependencies)
   home.html    main site
+  stagenet.html  how to join the stagenet (seed IPs etc. are [PLACEHOLDERS] until servers exist)
+  mine.html    mining guide (pool address etc. are [PLACEHOLDERS])
   home.js      launch clock and headline decrypt
   styles.css   all styling (night-ops palette)
   assets/      logo, Ghillie icon, favicon, white paper PDF, fonts (SIL OFL, licenses alongside)
